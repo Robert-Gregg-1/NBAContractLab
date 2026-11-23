@@ -1,0 +1,22 @@
+✔ The only product view is projected 2027-28 value, with an optional salary reference (476.553371ms)
+✔ A supported under-contract player can build a hypothetical schedule (86.664052ms)
+✔ Contract term and raises change totals without changing first-year market value (49.285559ms)
+✔ The entered cap scales value while cap growth affects later schedule percentages (63.506422ms)
+✔ Missing prior salary remains explicitly imputed, without requiring a current deal (74.045176ms)
+✔ All437 profiles initialize; all343 supported values match retained 2027-28 prices (1566.13226ms)
+✔ Elite coverage holds do not substitute signed extensions for model values (58.116869ms)
+✔ Niang keeps older statistics without inventing a new market estimate (43.822648ms)
+✔ Each observed statistical group supplies twelve cards; model inputs remain inspectable (55.416194ms)
+✔ All30 team filters and keyboard tab handlers still work (49.710165ms)
+✔ Scenario export states the hypothetical scope, fixed snapshot and interface version (46.54835ms)
+✔ Invalid contract controls clear totals and block an export (81.088235ms)
+✔ The optional salary card shows 2026-27 base, excluding AAV and cap-hit substitutes (50.65812ms)
+✔ Missing optional salary references never prevent a supported hypothetical contract (42.739063ms)
+ℹ tests 14
+ℹ suites 0
+ℹ pass 14
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 3838.810738
